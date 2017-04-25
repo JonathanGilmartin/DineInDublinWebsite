@@ -1,12 +1,11 @@
 
 
-  $(function(){
+ 
 
-   $(".button-collapse").sideNav();
-
-  }); // end of document ready
-
-
+$(document).ready(function(){
+       			// Activate the side menu 
+       			$(".button-collapse").sideNav();
+      			});
 	
 	// Show sideNav
   $('.button-collapse').sideNav('show');
