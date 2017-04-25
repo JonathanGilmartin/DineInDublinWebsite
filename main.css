@@ -45,6 +45,9 @@ nav li a{
 text-decoration: none;
 }
 
+.knight{
+margin-left:45%;
+	}
 
 
 nav ul li a:hover {
@@ -121,9 +124,6 @@ footer{
 	margin-left:5%;
 }
 
-.knight{
-margin-left:45%;
-	}
 
 
 
