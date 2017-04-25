@@ -111,6 +111,10 @@ footer{
 	text-align: center;
 }
 
+.side-nav{
+left:250px;
+
+}
 
 @media (max-width:480px)  { 
 	.block{
