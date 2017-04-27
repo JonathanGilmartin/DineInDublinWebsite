@@ -60,7 +60,9 @@ nav ul li a:hover {
 	float:left;
 	margin-left:10%;
 }
-
+.iphone{
+	margin-left:18%;
+}
 .block{
 	width:300px;
 	font-size: 1.25em;
@@ -114,9 +116,6 @@ footer{
 	.block{
 	font-size:1.75em; 
 	}
-.iphone{
-	margin-left:18%;
-}
 
 }
 	
