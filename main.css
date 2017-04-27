@@ -78,11 +78,6 @@ h2{
 width:300px;
 }
 
-.iphone{
-	margin-left:18%;
-	width:300px;
-	height:600px;
-}
 
 .section_title{
 margin:20px 0 0 25%;
@@ -117,10 +112,13 @@ footer{
 
 @media (max-width:480px)  { 
 	.block{
-	font-size:1.75em; }
+	font-size:1.75em; 
+	}
+.iphone{
+	margin-left:18%;
+}
 
-
-	
+}
 	
 
 
