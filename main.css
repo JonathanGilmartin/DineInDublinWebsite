@@ -114,6 +114,13 @@ footer{
 }
 
 
+#btn{
+margin-top:100px;
+margin-left:25%;
+}
+
+
+
 @media (max-width:480px)  { 
 	.block{
 	font-size:1.75em; 
