@@ -11,8 +11,8 @@ body{
 }
 
 header{
-	background-image: url(images/header.png);
-	height:400px;
+	background-image: url(images/header1.png);
+	height:700px;
 }
 
 nav{
@@ -30,7 +30,6 @@ nav ul {
     margin: 0;
     padding: 0;
 	display: block;
-	background-color: #707070;
 	height:100px;
 }
 
@@ -55,8 +54,7 @@ nav ul li a:hover {
 }
 
 .logo{
-	width:150px;
-	height:100px;
+	
 	float:left;
 	margin-left:10%;
 }
