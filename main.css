@@ -104,9 +104,10 @@ height:80px;
 }
 
 footer{
-		background-color: #707070;
+	background-color: #707070;
 	margin-top: 200px;
 	font-size:1.25em;
+	font-family: 'MTCORSVA';
 	color:white;
 	text-align: center;
 }
