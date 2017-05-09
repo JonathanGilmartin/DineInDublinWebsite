@@ -113,9 +113,8 @@ margin-top:100px;
 margin-left:25%;
 }
 
-.material-icons{
-font-size:60px;
-
+.material-icons.md-48 { 
+	font-size: 48px; 
 }
 
 @media (max-width:480px)  { 
