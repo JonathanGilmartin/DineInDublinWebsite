@@ -54,7 +54,8 @@ nav ul li a:hover {
 }
 
 .logo{
-float:right;
+display: block;
+    margin: 0 auto;
 	
 	
 }
