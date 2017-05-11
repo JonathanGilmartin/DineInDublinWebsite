@@ -105,12 +105,10 @@ margin-top:100px;
 margin-left:25%;
 }
 
-.material-icons.md-48 { 
-	font-size: 72px; 
-}
 
 @media (max-width:480px)  { 
 	.block{
+	width:400px;
 	font-size:3em; 
 	}
 
