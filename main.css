@@ -107,9 +107,14 @@ margin-left:25%;
 
 
 @media (min-width:480px)  { 
+	
+	.html{
+	width:100%;
+	}
+	
 	.block{
 	font-size:12px;
-	width:90%;
+	width:80%;
 	}
 
 }
