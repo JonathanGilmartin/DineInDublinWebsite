@@ -108,15 +108,8 @@ margin-left:25%;
 
 @media (min-width:480px)  { 
 	
-	.html{
-	width:100%;
-	}
-	
 	.block{
-	font-size:24px;
-	width:80%;
-	margin-left:10%;
-	margin-right:10%;
+	font-size:2em;
 	}
 
 }
