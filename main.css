@@ -108,6 +108,7 @@ margin-left:25%;
 
 @media (min-width:480px)  { 
 	.block{
+	font-size:12px;
 	width:50%;
 	}
 
