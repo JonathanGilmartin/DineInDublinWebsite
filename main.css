@@ -3,18 +3,9 @@ html {
     
 }
 
-html, body{
-min-height:100%;
-}
-
 body{
 	display: flex;
     flex-direction: column;
-}
-
-.container{
-overflow:hidden;
-
 }
 
 header{
@@ -99,7 +90,6 @@ font-family: 'MTCORSVA';
 .social{
 width:150px;
 height:150px;
-	position:fixed;
 }
 
 footer{
