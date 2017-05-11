@@ -94,6 +94,7 @@ font-family: 'MTCORSVA';
 .social{
 width:150px;
 height:150px;
+	position:fixed;
 }
 
 footer{
