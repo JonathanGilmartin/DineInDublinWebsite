@@ -3,6 +3,10 @@ html {
     
 }
 
+html, body{
+min-height:100%;
+}
+
 body{
 
 	display: flex;
