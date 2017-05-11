@@ -106,9 +106,9 @@ margin-left:25%;
 }
 
 
-@media (max-width:480px)  { 
+@media (min-width:480px)  { 
 	.block{
-	width:400px;
+	width:75%;
 	font-size:3em; 
 	}
 
